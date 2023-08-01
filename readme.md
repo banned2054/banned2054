@@ -1,6 +1,6 @@
 ###  👨🏻‍💻 About me
 
-- 😄 A senior undergraduate student in BUPT 💝.
+- 😄 A senior graduated student in BUPT 💝.
 
 - ✨ Infinite curiosity in magic of Computer Science.
 
